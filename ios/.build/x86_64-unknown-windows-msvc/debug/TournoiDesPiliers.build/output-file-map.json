@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\master.swiftdeps"
+  },
+  "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\ConnectFourGame.swift": {
+    "dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\ConnectFourGame.d",
+    "object": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\ConnectFourGame.swift.o",
+    "swiftmodule": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\ConnectFourGame~partial.swiftmodule",
+    "swift-dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\ConnectFourGame.swiftdeps"
+  },
+  "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\GameController.swift": {
+    "dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\GameController.d",
+    "object": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\GameController.swift.o",
+    "swiftmodule": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\GameController~partial.swiftmodule",
+    "swift-dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\GameController.swiftdeps"
+  },
+  "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\Models.swift": {
+    "dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\Models.d",
+    "object": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\Models.swift.o",
+    "swiftmodule": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\Models~partial.swiftmodule",
+    "swift-dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\Models.swiftdeps"
+  },
+  "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\TerminalUI.swift": {
+    "dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\TerminalUI.d",
+    "object": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\TerminalUI.swift.o",
+    "swiftmodule": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\TerminalUI~partial.swiftmodule",
+    "swift-dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\TerminalUI.swiftdeps"
+  },
+  "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\main.swift": {
+    "dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\main.d",
+    "object": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\main.swift.o",
+    "swiftmodule": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\main~partial.swiftmodule",
+    "swift-dependencies": "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\main.swiftdeps"
+  }
+}

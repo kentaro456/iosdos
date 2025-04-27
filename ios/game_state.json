@@ -1,0 +1,9 @@
+{
+    "playerName": "",
+    "difficulty": 2,
+    "skipNarration": false,
+    "skipLostGame": false,
+    "currentRoom": 1,
+    "totalScore": 0,
+    "opponents": []
+} 

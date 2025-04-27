@@ -1,0 +1,308 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.TournoiDesPiliers-x86_64-unknown-windows-msvc-debug.module" : {
+      "executable" : "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.1.0+Asserts\\usr\\bin\\swiftc.exe",
+      "fileList" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\sources",
+      "importPath" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\ConnectFourGame.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\GameController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\TerminalUI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version--CCE5CD1B9483F7F.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "TournoiDesPiliers",
+      "moduleOutputPath" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\Modules\\TournoiDesPiliers.swiftmodule",
+      "objects" : [
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\ConnectFourGame.swift.o",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\GameController.swift.o",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\Models.swift.o",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\TerminalUI.swift.o",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-Onone",
+        "-enable-testing",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output",
+        "-static",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\SDKs\\Windows.sdk\\",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows",
+        "-I",
+        "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-I",
+        "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\Testing-development\\usr\\lib\\swift\\windows",
+        "-L",
+        "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\Testing-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-use-ld=lld",
+        "-g",
+        "-use-ld=lld",
+        "-Xcc",
+        "-D_MT",
+        "-Xcc",
+        "-D_DLL",
+        "-Xcc",
+        "-Xclang",
+        "-Xcc",
+        "--dependent-lib=msvcrt",
+        "-Xcc",
+        "-gdwarf"
+      ],
+      "outputFileMapPath" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\ConnectFourGame.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\GameController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\TerminalUI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\Modules\\TournoiDesPiliers.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\ConnectFourGame.swift",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\GameController.swift",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\Models.swift",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\TerminalUI.swift",
+        "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\main.swift"
+      ],
+      "tempsPath" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "TournoiDesPiliers" : [
+      "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.1.0+Asserts\\usr\\bin\\swiftc.exe",
+      "-module-name",
+      "TournoiDesPiliers",
+      "-incremental",
+      "-c",
+      "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\ConnectFourGame.swift",
+      "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\GameController.swift",
+      "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\Models.swift",
+      "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\TerminalUI.swift",
+      "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\main.swift",
+      "-I",
+      "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\Modules",
+      "-target",
+      "x86_64-unknown-windows-msvc",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+      "-Onone",
+      "-enable-testing",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+      "-parseable-output",
+      "-static",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\SDKs\\Windows.sdk\\",
+      "-libc",
+      "MD",
+      "-I",
+      "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows",
+      "-I",
+      "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+      "-L",
+      "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+      "-I",
+      "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\Testing-development\\usr\\lib\\swift\\windows",
+      "-L",
+      "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Platforms\\6.1.0\\Windows.platform\\Developer\\Library\\Testing-development\\usr\\lib\\swift\\windows\\x86_64",
+      "-use-ld=lld",
+      "-g",
+      "-use-ld=lld",
+      "-Xcc",
+      "-D_MT",
+      "-Xcc",
+      "-D_DLL",
+      "-Xcc",
+      "-Xclang",
+      "-Xcc",
+      "--dependent-lib=msvcrt",
+      "-Xcc",
+      "-gdwarf",
+      "-driver-use-frontend-path",
+      "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.1.0+Asserts\\usr\\bin\\swiftc.exe"
+    ]
+  },
+  "targetDependencyMap" : {
+    "TournoiDesPiliers" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\ConnectFourGame.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\GameController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\TerminalUI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\main.swift"
+        }
+      ],
+      "outputFilePath" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\sources"
+    },
+    "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.product\\Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\ConnectFourGame.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\GameController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\TerminalUI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\TournoiDesPiliers.swiftmodule.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.build\\main.swift.o"
+        }
+      ],
+      "outputFilePath" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\TournoiDesPiliers.product\\Objects.LinkFileList"
+    },
+    "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version--CCE5CD1B9483F7F.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\rluka\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.1.0+Asserts\\usr\\bin\\swiftc.exe"
+        }
+      ],
+      "outputFilePath" : "C:\\Users\\rluka\\OneDrive\\Bureau\\ios\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version--CCE5CD1B9483F7F.txt"
+    }
+  }
+}
